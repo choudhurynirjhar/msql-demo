@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DemoMySql": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Connection": "server=localhost;database=demo;uid=root;pwd=P@ssW0rD123{}90"
+      }
+    }
+  }
+}
